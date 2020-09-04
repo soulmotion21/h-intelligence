@@ -57,6 +57,7 @@ fabric.properties
 .DS_Store
 node_modules
 .sass-cache
+.next/cache/
 
 ### WebStorm+all Patch ###
 # Ignores the whole idea folder

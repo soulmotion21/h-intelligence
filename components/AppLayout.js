@@ -1,5 +1,4 @@
 import React from 'react'
-/** @jsx jsx */
 import { jsx, css } from '@emotion/core'
 
 const style = css`
